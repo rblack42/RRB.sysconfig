@@ -1,0 +1,6 @@
+*.pyc
+*.swp
+_build
+_static
+_templates
+
